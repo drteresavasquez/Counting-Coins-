@@ -9,7 +9,7 @@ let change = document.getElementById("coinPurse");
 
 function coinCounter () {
   // Initialize a JavaScript object to hold the coins
-  var coinPurse = {};
+  let coinPurse = {};
 
       let cash = userInput;
       cash *=100;
